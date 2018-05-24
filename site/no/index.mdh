@@ -1,0 +1,69 @@
+title:Free Libre Open Campaigning
+theme:spacelab
+
+# Hva er dette?
+
+Free Libre Open Campaigning (Fri Åpen Kampanje) er et ordspill på Free Libre
+Open Source Software (FLOSS) det er en samling prinsipper du bør følge for å
+bedre samarbeide på prosjekter over landegrensene. Disse prinsippene er ikke
+begrenset til kampanjer, men kan brukes for et hvilket som helst prosjekt du
+ønsker å lage en gang og kjøre flere steder, et annet ord er Free Libre Open
+Collaboration (Fri Åpent Samarbeide).
+
+## Hva vi forsøker å løse
+
+Vi er organisasjoner spredt over hele Europa. Når vi gjør lokale kampanjer
+trenger vi ofte å oversette med lokale tilpasninger. Spesielt når en
+kampanjen er stylet og laget i utilgjengelige formater, er det ikke
+nødvendigvis enkelt å gjenbruke og nestene hele kampanjen må lages på nytt i
+hvert land.
+
+### Hvorfor bør du bruke ekstra tid på dette?
+
+Gjør mot andre det du vil at andre skal gjøre mot deg. Selv om det
+sannsynligvis vil koste deg en god del ekstra tid den første gangen, og litt
+mer tid de neste gangene, så kommer fordelen fra at du antakeligvis har
+spart inn dette og litt til den første gangen du kan gjenbruke noe fra noen
+andre.
+
+# Prinsippene
+
+## Separer stylistiske data fra informasjon
+
+Dette er en av de styrende prinsippene i HTML, da CSS ble separert ut. Dette
+tillater at prosjektet blir gjenbrukt for eksempel på andre språk.
+
+## Bruk et versjonshåndteringssystem
+
+There are several [version control
+systems](https://en.wikipedia.org/wiki/Version_control) available. Some of
+the best known are [GIT](https://git-scm.com/) and
+[Mercurial](https://www.mercurial-scm.org/), [for a list see
+here](https://en.wikipedia.org/wiki/List_of_version_control_software), but
+this is not necessary. Cloud storage most often also incorporates some kind
+of version control, while we prefer a proper scm, anything that let's you do
+changes and enables you to backtrack is usable. When doing
+intenationalization
+
+## Tillat oversettelser
+
+Dette betyr å lage prosjektet i formater med enkel tilgang, slik som ren
+tekst, html, formatert tekst eller andre former for tekst som enkelt kan
+puttes inn i et oversettelsesystem (bruk for eksempel
+[po4a](https://po4a.org/)
+
+## Bruk gode verktøy
+
+Good tools minimizes the workload, and the education cost on the involved
+project members. We are in the process of developing a list of good tools
+you can use to streamline this process.
+
+## Lisensier prosjektet ditt
+
+Unfortunately in this world the default is that everything is
+copyrighted. If you want others to be able to use your work, indicate this
+by clearly setting a license. We recommend one of the permissive licenses
+from [Creative Commons](https://creativecommons.org/) which is available
+with translations in almost every language. But also if you don't want to be
+that permissive indicate that as well. A license stating simply contact us
+if you want to run this yourself is a good starting point.
