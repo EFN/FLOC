@@ -35,15 +35,15 @@ tillater at prosjektet blir gjenbrukt for eksempel på andre språk.
 
 ## Bruk et versjonshåndteringssystem
 
-There are several [version control
-systems](https://en.wikipedia.org/wiki/Version_control) available. Some of
-the best known are [GIT](https://git-scm.com/) and
-[Mercurial](https://www.mercurial-scm.org/), [for a list see
-here](https://en.wikipedia.org/wiki/List_of_version_control_software), but
-this is not necessary. Cloud storage most often also incorporates some kind
-of version control, while we prefer a proper scm, anything that let's you do
-changes and enables you to backtrack is usable. When doing
-intenationalization
+Det finnes mange
+[versjonskontrollsystemer](https://no.wikipedia.org/wiki/Versjonskontrollsystem).
+Noen av de best kjente er [GIT](https://git-scm.com/) and
+[Mercurial](https://www.mercurial-scm.org/), [for en liste se
+her](https://en.wikipedia.org/wiki/List_of_version_control_software), men
+dette er ikke nødvendig. Skylagring inneholder som oftest noen former for
+versjonskontroll. Vi foretrekker et ordentlig versjonshåndteringsystem, men
+alt som tillater deg å gjøre endringer og spore dem er bruktbart når du gjør
+internasjonalisering.
 
 ## Tillat oversettelser
 
@@ -54,16 +54,17 @@ puttes inn i et oversettelsesystem (bruk for eksempel
 
 ## Bruk gode verktøy
 
-Good tools minimizes the workload, and the education cost on the involved
-project members. We are in the process of developing a list of good tools
-you can use to streamline this process.
+Gode verktøy minimerer arbeidsbelastningen og opplæringskostnaden på de som
+er involvert i prosjektet. Vi jobber med å sette sammen en liste med gode
+verktøy du kan bruke for å strømlinjeforme denne prosessen.
 
 ## Lisensier prosjektet ditt
 
-Unfortunately in this world the default is that everything is
-copyrighted. If you want others to be able to use your work, indicate this
-by clearly setting a license. We recommend one of the permissive licenses
-from [Creative Commons](https://creativecommons.org/) which is available
-with translations in almost every language. But also if you don't want to be
-that permissive indicate that as well. A license stating simply contact us
-if you want to run this yourself is a good starting point.
+Uheldigvis lever vi i en verden der alt per default er
+opphavsrettsbeskyttet. Hvis du vil at andre skal kunne bruke prosjektet
+ditt, indiker dette med å sette en lisens. Vi anbefaler en av de frie
+lisensene fra [Creative Commons](https://creativecommons.no/) som er
+tilgjengelig med oversettelser på så godt som alle språk. Hvis du ikke
+ønsker å være så åpen, indiker dette også. En lisens som ikke sier noe annet
+enn kontakt oss hvis du vil kjøre dette prosjektet selv er et godt
+utgangspunkt.
