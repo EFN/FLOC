@@ -16,6 +16,7 @@ Do yourselves what you like others to do to you. While this probably will cost y
 # The principles
 
 ## Separate styling from information
+
 This is one of the guiding principles in HTML, where CSS was separated. This allows a project to be reused for instance in another language.
 
 ## Use a version control system
