@@ -5,9 +5,9 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: \n"
 "POT-Creation-Date: 2018-05-24 17:39+0000\n"
-"PO-Revision-Date: 2018-05-24 17:10+0000\n"
+"PO-Revision-Date: 2018-05-24 19:53+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: no\n"
@@ -19,12 +19,12 @@ msgstr ""
 #. type: Plain text
 #: site/en/index.mdh:3
 msgid "title:Free Libre Open Campaigning theme:spacelab"
-msgstr ""
+msgstr "title:Free Libre Open Campaigning theme:spacelab"
 
 #. type: Plain text
 #: site/en/index.mdh:5
 msgid "# What is this?"
-msgstr ""
+msgstr "# Hva er dette?"
 
 #. type: Plain text
 #: site/en/index.mdh:7
@@ -35,11 +35,17 @@ msgid ""
 "campaigning, and can be used for any project where you would like to develop "
 "once and run many, another word is Free Libre Open Collaboration."
 msgstr ""
+"Free Libre Open Campaigning (Fri Åpen Kampanje) er et ordspill på Free Libre "
+"Open Source Software (FLOSS) det er en samling prinsipper du bør følge for å "
+"bedre samarbeide på prosjekter over landegrensene. Disse prinsippene er ikke "
+"begrenset til kampanjer, men kan brukes for et hvilket som helst prosjekt du "
+"ønsker å lage en gang og kjøre flere steder, et annet ord er Free Libre Open "
+"Collaboration (Fri Åpent Samarbeide)."
 
 #. type: Plain text
 #: site/en/index.mdh:9
 msgid "## What we try to solve"
-msgstr ""
+msgstr "## Hva vi forsøker å løse"
 
 #. type: Plain text
 #: site/en/index.mdh:11
@@ -50,11 +56,16 @@ msgid ""
 "easy, and almost the whole campaign has to be remade in each and every "
 "country."
 msgstr ""
+"Vi er organisasjoner spredt over hele Europa. Når vi gjør lokale kampanjer "
+"trenger vi ofte å oversette med lokale tilpasninger. Spesielt når en "
+"kampanjen er stylet og laget i utilgjengelige formater, er det ikke "
+"nødvendigvis enkelt å gjenbruke og nestene hele kampanjen må lages på nytt i "
+"hvert land."
 
 #. type: Plain text
 #: site/en/index.mdh:13
 msgid "### Why would you spend extra time on doing it like this?"
-msgstr ""
+msgstr "### Hvorfor bør du bruke ekstra tid på dette?"
 
 #. type: Plain text
 #: site/en/index.mdh:15
@@ -64,16 +75,21 @@ msgid ""
 "the next times. The benefit comes from the fact that if others do this for "
 "just one campaign, you've probably saved everything and then some."
 msgstr ""
+"Gjør mot andre det du vil at andre skal gjøre mot deg. Selv om det "
+"sannsynligvis vil koste deg en god del ekstra tid den første gangen, og litt "
+"mer tid de neste gangene, så kommer fordelen fra at du antakeligvis har "
+"spart inn dette og litt til den første gangen du kan gjenbruke noe fra noen "
+"andre."
 
 #. type: Plain text
 #: site/en/index.mdh:17
 msgid "# The principles"
-msgstr ""
+msgstr "# Prinsippene"
 
 #. type: Plain text
 #: site/en/index.mdh:19
 msgid "## Separate styling from information"
-msgstr ""
+msgstr "## Separer stylistiske data fra informasjon"
 
 #. type: Plain text
 #: site/en/index.mdh:21
@@ -81,11 +97,13 @@ msgid ""
 "This is one of the guiding principles in HTML, where CSS was separated. This "
 "allows a project to be reused for instance in another language."
 msgstr ""
+"Dette er en av de styrende prinsippene i HTML, da CSS ble separert ut. Dette "
+"tillater at prosjektet blir gjenbrukt for eksempel på andre språk."
 
 #. type: Plain text
 #: site/en/index.mdh:23
 msgid "## Use a version control system"
-msgstr ""
+msgstr "## Bruk et versjonshåndteringssystem"
 
 #. type: Plain text
 #: site/en/index.mdh:25
@@ -103,7 +121,7 @@ msgstr ""
 #. type: Plain text
 #: site/en/index.mdh:27
 msgid "## Allow for translation"
-msgstr ""
+msgstr "## Tillat oversettelser"
 
 #. type: Plain text
 #: site/en/index.mdh:29
@@ -112,11 +130,15 @@ msgid ""
 "formatted text or other forms of text which easily can be used as input to a "
 "translation system (for example using [po4a](https://po4a.org/))."
 msgstr ""
+"Dette betyr å lage prosjektet i formater med enkel tilgang, slik som ren "
+"tekst, html, formatert tekst eller andre former for tekst som enkelt kan "
+"puttes inn i et oversettelsesystem (bruk for eksempel [po4a](https://po4a."
+"org/)"
 
 #. type: Plain text
 #: site/en/index.mdh:31
 msgid "## Use good tools"
-msgstr ""
+msgstr "## Bruk gode verktøy"
 
 #. type: Plain text
 #: site/en/index.mdh:33
@@ -129,7 +151,7 @@ msgstr ""
 #. type: Plain text
 #: site/en/index.mdh:35
 msgid "## License your project"
-msgstr ""
+msgstr "## Lisensier prosjektet ditt"
 
 #. type: Plain text
 #: site/en/index.mdh:36
