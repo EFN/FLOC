@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2018-05-24 17:39+0000\n"
+"POT-Creation-Date: 2018-05-24 22:09+0000\n"
 "PO-Revision-Date: 2018-05-24 20:21+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -18,7 +18,9 @@ msgstr ""
 
 #. type: Plain text
 #: site/en/index.mdh:3
-msgid "title:Free Libre Open Campaigning theme:spacelab"
+#, fuzzy
+#| msgid "title:Free Libre Open Campaigning theme:spacelab"
+msgid "title:Free Libre Open Collaboration theme:spacelab"
 msgstr "title:Free Libre Open Campaigning theme:spacelab"
 
 #. type: Plain text
@@ -28,12 +30,21 @@ msgstr "# Hva er dette?"
 
 #. type: Plain text
 #: site/en/index.mdh:7
+#, fuzzy
+#| msgid ""
+#| "Free Libre Open Campaigning is a wordplay on Free Libre Open Source "
+#| "Software (FLOSS) it is a set of principles to obey by in order to better "
+#| "collaborate on projects across countries. These principles are not "
+#| "limited to campaigning, and can be used for any project where you would "
+#| "like to develop once and run many, another word is Free Libre Open "
+#| "Collaboration."
 msgid ""
-"Free Libre Open Campaigning is a wordplay on Free Libre Open Source Software "
-"(FLOSS) it is a set of principles to obey by in order to better collaborate "
-"on projects across countries. These principles are not limited to "
-"campaigning, and can be used for any project where you would like to develop "
-"once and run many, another word is Free Libre Open Collaboration."
+"Free Libre Open Collaboration is a wordplay on Free Libre Open Source "
+"Software (FLOSS) it is a set of principles to obey by in order to better "
+"collaborate on projects across countries. These principles were developed to "
+"do campaigning, but they are generally useful for any project where you "
+"would like to develop once and make available in many locations, another "
+"word is Free Libre Open Campaigning."
 msgstr ""
 "Free Libre Open Campaigning (Fri Åpen Kampanje) er et ordspill på Free Libre "
 "Open Source Software (FLOSS) det er en samling prinsipper du bør følge for å "
@@ -49,12 +60,20 @@ msgstr "## Hva vi forsøker å løse"
 
 #. type: Plain text
 #: site/en/index.mdh:11
+#, fuzzy
+#| msgid ""
+#| "We are NGOs spread across Europe. When doing local campaigns we often "
+#| "need to do translations and local adaptations. Especially when a campaign "
+#| "is highgly stylized and made in inaccessiable formats this is not "
+#| "necessarily easy, and almost the whole campaign has to be remade in each "
+#| "and every country."
 msgid ""
-"We are NGOs spread across Europe. When doing local campaigns we often need "
-"to do translations and local adaptations. Especially when a campaign is "
-"highgly stylized and made in inaccessiable formats this is not necessarily "
-"easy, and almost the whole campaign has to be remade in each and every "
-"country."
+"We are working on projects in a multinational setting. Often English is "
+"enough, but the majority of the population of the world doesn't speak "
+"English, and even when they all speak the same language there is a need "
+"adaptation to the local environent. Especially when a project is highly "
+"stylized and made in inaccessiable formats this is not necessarily easy, and "
+"almost the whole campaign has to be remade in each and every country."
 msgstr ""
 "Vi er organisasjoner spredt over hele Europa. Når vi gjør lokale kampanjer "
 "trenger vi ofte å oversette med lokale tilpasninger. Spesielt når en "
@@ -69,11 +88,17 @@ msgstr "### Hvorfor bør du bruke ekstra tid på dette?"
 
 #. type: Plain text
 #: site/en/index.mdh:15
+#, fuzzy
+#| msgid ""
+#| "Do yourselves what you like others to do to you. While this probably will "
+#| "cost you a lot more time the first time you do it, and a little more time "
+#| "the next times. The benefit comes from the fact that if others do this "
+#| "for just one campaign, you've probably saved everything and then some."
 msgid ""
 "Do yourselves what you like others to do to you. While this probably will "
 "cost you a lot more time the first time you do it, and a little more time "
 "the next times. The benefit comes from the fact that if others do this for "
-"just one campaign, you've probably saved everything and then some."
+"just one project, you've probably saved everything and then some."
 msgstr ""
 "Gjør mot andre det du vil at andre skal gjøre mot deg. Selv om det "
 "sannsynligvis vil koste deg en god del ekstra tid den første gangen, og litt "
