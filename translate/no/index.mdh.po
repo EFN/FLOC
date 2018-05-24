@@ -1,0 +1,140 @@
+# Norwegian translations for PACKAGE package
+# Copyright (C) 2018 Free Software Foundation, Inc.
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2018-05-24 17:10+0000\n"
+"PO-Revision-Date: 2018-05-24 17:10+0000\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. type: Plain text
+#: site/en/index.mdh:3
+msgid "title:Free Libre Open Campaigning theme:spacelab"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:5
+msgid "# What is this?"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:7
+msgid ""
+"Free Libre Open Campaigning is a wordplay on Free Libre Open Source Software "
+"(FLOSS) it is a set of principles to obey by in order to better collaborate "
+"on projects across countries. These principles are not limited to "
+"campaigning, and can be used for any project where you would like to develop "
+"once and run many, another word is Free Libre Open Collaboration."
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:9
+msgid "## What we try to solve"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:11
+msgid ""
+"We are NGOs spread across Europe. When doing local campaigns we often need "
+"to do translations and local adaptations. Especially when a campaign is "
+"highgly stylized and made in inaccessiable formats this is not necessarily "
+"easy, and almost the whole campaign has to be remade in each and every "
+"country."
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:13
+msgid "### Why would you spend extra time on doing it like this?"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:15
+msgid ""
+"Do yourselves what you like others to do to you. While this probably will "
+"cost you a lot more time the first time you do it, and a little more time "
+"the next times. The benefit comes from the fact that if others do this for "
+"just one campaign, you've probably saved everything and then some."
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:17
+msgid "# The principles"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:20
+msgid ""
+"## Separate styling from information This is one of the guiding principles "
+"in HTML, where CSS was separated. This allows a project to be reused for "
+"instance in another language."
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:22
+msgid "## Use a version control system"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:24
+msgid ""
+"There are several [version control systems](https://en.wikipedia.org/wiki/"
+"Version_control) available. Some of the best known are [GIT](https://git-scm."
+"com/) and [Mercurial](https://www.mercurial-scm.org/), [for a list see here]"
+"(https://en.wikipedia.org/wiki/List_of_version_control_software), but this "
+"is not necessary. Cloud storage most often also incorporates some kind of "
+"version control, while we prefer a proper scm, anything that let's you do "
+"changes and enables you to backtrack is usable. When doing "
+"intenationalization"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:26
+msgid "## Allow for translation"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:28
+msgid ""
+"What this means is use easy to access formats like plain text, html, "
+"formatted text or other forms of text which easily can be used as input to a "
+"translation system (for example using [po4a](https://po4a.org/))."
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:30
+msgid "## Use good tools"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:32
+msgid ""
+"Good tools minimizes the workload, and the education cost on the involved "
+"project members. We are in the process of developing a list of good tools "
+"you can use to streamline this process."
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:34
+msgid "## License your project"
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:35
+msgid ""
+"Unfortunately in this world the default is that everything is copyrighted. "
+"If you want others to be able to use your work, indicate this by clearly "
+"setting a license. We recommend one of the permissive licenses from "
+"[Creative Commons](https://creativecommons.org/) which is available with "
+"translations in almost every language. But also if you don't want to be that "
+"permissive indicate that as well. A license stating simply contact us if you "
+"want to run this yourself is a good starting point."
+msgstr ""
