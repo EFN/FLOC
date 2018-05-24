@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-05-24 22:09+0000\n"
-"PO-Revision-Date: 2018-05-24 20:21+0200\n"
+"PO-Revision-Date: 2018-05-25 01:09+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: no\n"
@@ -18,10 +18,8 @@ msgstr ""
 
 #. type: Plain text
 #: site/en/index.mdh:3
-#, fuzzy
-#| msgid "title:Free Libre Open Campaigning theme:spacelab"
 msgid "title:Free Libre Open Collaboration theme:spacelab"
-msgstr "title:Free Libre Open Campaigning theme:spacelab"
+msgstr "title:Free Libre Open Collaboration theme:spacelab"
 
 #. type: Plain text
 #: site/en/index.mdh:5
@@ -30,14 +28,6 @@ msgstr "# Hva er dette?"
 
 #. type: Plain text
 #: site/en/index.mdh:7
-#, fuzzy
-#| msgid ""
-#| "Free Libre Open Campaigning is a wordplay on Free Libre Open Source "
-#| "Software (FLOSS) it is a set of principles to obey by in order to better "
-#| "collaborate on projects across countries. These principles are not "
-#| "limited to campaigning, and can be used for any project where you would "
-#| "like to develop once and run many, another word is Free Libre Open "
-#| "Collaboration."
 msgid ""
 "Free Libre Open Collaboration is a wordplay on Free Libre Open Source "
 "Software (FLOSS) it is a set of principles to obey by in order to better "
@@ -46,12 +36,12 @@ msgid ""
 "would like to develop once and make available in many locations, another "
 "word is Free Libre Open Campaigning."
 msgstr ""
-"Free Libre Open Campaigning (Fri Åpen Kampanje) er et ordspill på Free Libre "
-"Open Source Software (FLOSS) det er en samling prinsipper du bør følge for å "
-"bedre samarbeide på prosjekter over landegrensene. Disse prinsippene er ikke "
-"begrenset til kampanjer, men kan brukes for et hvilket som helst prosjekt du "
-"ønsker å lage en gang og kjøre flere steder, et annet ord er Free Libre Open "
-"Collaboration (Fri Åpent Samarbeide)."
+"Free Libre Open Collaboration (Frit Åpent Samarbeide) er et ordspill på Free "
+"Libre Open Source Software (FLOSS) det er en samling prinsipper du bør følge "
+"for å bedre samarbeide på prosjekter over landegrensene. Disse prinsippene "
+"er ikke begrenset til kampanjer, men kan brukes for et hvilket som helst "
+"prosjekt du ønsker å lage en gang og kjøre flere steder, et annet ord er "
+"Free Libre Open Campaigning (Fri Åpen Kampanje)."
 
 #. type: Plain text
 #: site/en/index.mdh:9
@@ -60,13 +50,6 @@ msgstr "## Hva vi forsøker å løse"
 
 #. type: Plain text
 #: site/en/index.mdh:11
-#, fuzzy
-#| msgid ""
-#| "We are NGOs spread across Europe. When doing local campaigns we often "
-#| "need to do translations and local adaptations. Especially when a campaign "
-#| "is highgly stylized and made in inaccessiable formats this is not "
-#| "necessarily easy, and almost the whole campaign has to be remade in each "
-#| "and every country."
 msgid ""
 "We are working on projects in a multinational setting. Often English is "
 "enough, but the majority of the population of the world doesn't speak "
@@ -75,11 +58,11 @@ msgid ""
 "stylized and made in inaccessiable formats this is not necessarily easy, and "
 "almost the whole campaign has to be remade in each and every country."
 msgstr ""
-"Vi er organisasjoner spredt over hele Europa. Når vi gjør lokale kampanjer "
-"trenger vi ofte å oversette med lokale tilpasninger. Spesielt når en "
-"kampanjen er stylet og laget i utilgjengelige formater, er det ikke "
-"nødvendigvis enkelt å gjenbruke og nestene hele kampanjen må lages på nytt i "
-"hvert land."
+"Vi jobber på prosjekter i en multinasjonal setting. Ofte er engelsk nok, men "
+"majoriteten av verdens befolkning snakker ikke engelsk, og selv om alle "
+"snakker det samme språket kan det være behov for å tilpasse prosjektet til "
+"det lokale miljøet. Spesielt når prosjektet er sterkt tilsatt kan det ende "
+"opp med at nesten hele prosjektet må gjenskapes i hvert land."
 
 #. type: Plain text
 #: site/en/index.mdh:13
@@ -88,12 +71,6 @@ msgstr "### Hvorfor bør du bruke ekstra tid på dette?"
 
 #. type: Plain text
 #: site/en/index.mdh:15
-#, fuzzy
-#| msgid ""
-#| "Do yourselves what you like others to do to you. While this probably will "
-#| "cost you a lot more time the first time you do it, and a little more time "
-#| "the next times. The benefit comes from the fact that if others do this "
-#| "for just one campaign, you've probably saved everything and then some."
 msgid ""
 "Do yourselves what you like others to do to you. While this probably will "
 "cost you a lot more time the first time you do it, and a little more time "
@@ -102,9 +79,8 @@ msgid ""
 msgstr ""
 "Gjør mot andre det du vil at andre skal gjøre mot deg. Selv om det "
 "sannsynligvis vil koste deg en god del ekstra tid den første gangen, og litt "
-"mer tid de neste gangene, så kommer fordelen fra at du antakeligvis har "
-"spart inn dette og litt til den første gangen du kan gjenbruke noe fra noen "
-"andre."
+"mer tid de neste gangene, så har du antakeligvis spart inn dette og litt til "
+"den første gangen du kan gjenbruke noe fra bare et annet prosjekt."
 
 #. type: Plain text
 #: site/en/index.mdh:17
