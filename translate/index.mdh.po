@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-05-24 17:29+0000\n"
+"POT-Creation-Date: 2018-05-24 17:39+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -71,20 +71,24 @@ msgid "# The principles"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:20
-msgid ""
-"## Separate styling from information This is one of the guiding principles "
-"in HTML, where CSS was separated. This allows a project to be reused for "
-"instance in another language."
+#: site/en/index.mdh:19
+msgid "## Separate styling from information"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:22
+#: site/en/index.mdh:21
+msgid ""
+"This is one of the guiding principles in HTML, where CSS was separated. This "
+"allows a project to be reused for instance in another language."
+msgstr ""
+
+#. type: Plain text
+#: site/en/index.mdh:23
 msgid "## Use a version control system"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:24
+#: site/en/index.mdh:25
 msgid ""
 "There are several [version control systems](https://en.wikipedia.org/wiki/"
 "Version_control) available. Some of the best known are [GIT](https://git-scm."
@@ -97,12 +101,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:26
+#: site/en/index.mdh:27
 msgid "## Allow for translation"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:28
+#: site/en/index.mdh:29
 msgid ""
 "What this means is use easy to access formats like plain text, html, "
 "formatted text or other forms of text which easily can be used as input to a "
@@ -110,12 +114,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:30
+#: site/en/index.mdh:31
 msgid "## Use good tools"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:32
+#: site/en/index.mdh:33
 msgid ""
 "Good tools minimizes the workload, and the education cost on the involved "
 "project members. We are in the process of developing a list of good tools "
@@ -123,12 +127,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:34
+#: site/en/index.mdh:35
 msgid "## License your project"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:35
+#: site/en/index.mdh:36
 msgid ""
 "Unfortunately in this world the default is that everything is copyrighted. "
 "If you want others to be able to use your work, indicate this by clearly "
