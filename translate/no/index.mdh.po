@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
-"POT-Creation-Date: 2018-05-24 22:09+0000\n"
+"POT-Creation-Date: 2018-06-21 21:13+0000\n"
 "PO-Revision-Date: 2018-05-25 01:09+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -17,14 +17,12 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #. type: Plain text
-#: site/en/index.mdh:3
-msgid "title:Free Libre Open Collaboration theme:spacelab"
-msgstr "title:Free Libre Open Collaboration theme:spacelab"
-
-#. type: Plain text
 #: site/en/index.mdh:5
-msgid "# What is this?"
-msgstr "# Hva er dette?"
+#, fuzzy
+#| msgid "title:Free Libre Open Collaboration theme:spacelab"
+msgid ""
+"title: Free Libre Open Collaboration theme: spacelab ...  # What is this?"
+msgstr "title:Free Libre Open Collaboration theme:spacelab"
 
 #. type: Plain text
 #: site/en/index.mdh:7

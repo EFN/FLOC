@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-05-24 23:01+0000\n"
+"POT-Creation-Date: 2018-06-21 21:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,13 +17,9 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: site/en/index.mdh:3
-msgid "title:Free Libre Open Collaboration theme:spacelab"
-msgstr ""
-
-#. type: Plain text
 #: site/en/index.mdh:5
-msgid "# What is this?"
+msgid ""
+"title: Free Libre Open Collaboration theme: spacelab ...  # What is this?"
 msgstr ""
 
 #. type: Plain text
