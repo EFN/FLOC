@@ -21,7 +21,7 @@ This is one of the guiding principles in HTML, where CSS was separated. This all
 
 ## Use a version control system
 
-There are several [version control systems](https://en.wikipedia.org/wiki/Version_control) available. Some of the best known are [GIT](https://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/), [for a list see here](https://en.wikipedia.org/wiki/List_of_version_control_software), but this is not necessary. Cloud storage most often also incorporates some kind of version control, while we prefer a proper scm, anything that let's you do changes and enables you to backtrack is usable. When doing intenationalization
+There are several [version control systems](https://en.wikipedia.org/wiki/Version_control) available. Some of the best known are [GIT](https://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/), [for a list see here](https://en.wikipedia.org/wiki/List_of_version_control_software), but this is not necessary. Cloud storage most often also incorporates some kind of version control, while we prefer a proper source control management system, anything that let's you do changes and enables you to backtrack is usable.
 
 ## Allow for translation
 
