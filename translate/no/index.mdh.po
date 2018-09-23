@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: 2018-09-23 14:42+0000\n"
-"PO-Revision-Date: 2018-06-21 23:19+0200\n"
+"PO-Revision-Date: 2018-09-23 16:48+0200\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
 "Language: no\n"
@@ -15,6 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.0.8\n"
 
 #. type: Plain text
 #: site/en/index.mdh:5
@@ -104,16 +105,6 @@ msgstr "## Bruk et versjonshåndteringssystem"
 
 #. type: Plain text
 #: site/en/index.mdh:25
-#, fuzzy
-#| msgid ""
-#| "There are several [version control systems](https://en.wikipedia.org/wiki/"
-#| "Version_control) available. Some of the best known are [GIT](https://git-"
-#| "scm.com/) and [Mercurial](https://www.mercurial-scm.org/), [for a list "
-#| "see here](https://en.wikipedia.org/wiki/"
-#| "List_of_version_control_software), but this is not necessary. Cloud "
-#| "storage most often also incorporates some kind of version control, while "
-#| "we prefer a proper scm, anything that let's you do changes and enables "
-#| "you to backtrack is usable. When doing intenationalization"
 msgid ""
 "There are several [version control systems](https://en.wikipedia.org/wiki/"
 "Version_control) available. Some of the best known are [GIT](https://git-scm."
