@@ -32,12 +32,12 @@ msgid ""
 "would like to develop once and make available in many locations, another "
 "word is Free Libre Open Campaigning."
 msgstr ""
-"Free Libre Open Collaboration (Frit Åpent Samarbeide) er et ordspill på Free "
-"Libre Open Source Software (FLOSS) det er en samling prinsipper du bør følge "
-"for å bedre samarbeide på prosjekter over landegrensene. Disse prinsippene "
-"er ikke begrenset til kampanjer, men kan brukes for et hvilket som helst "
-"prosjekt du ønsker å lage en gang og kjøre flere steder, et annet ord er "
-"Free Libre Open Campaigning (Fri Åpen Kampanje)."
+"Free Libre Open Collaboration (Fritt og åpent samarbeid) er et ordspill på "
+"Free Libre Open Source Software (FLOSS) det er en samling prinsipper du bør "
+"følge for å bedre samarbeide på prosjekter over landegrensene. Disse "
+"prinsippene er ikke begrenset til kampanjer, men kan brukes for et hvilket "
+"som helst prosjekt du ønsker å lage en gang og kjøre flere steder, et annet "
+"ord er Free Libre Open Campaigning (Fri Åpen Kampanje)."
 
 #. type: Plain text
 #: src/index.mdh:6
