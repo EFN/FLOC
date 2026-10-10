@@ -10,3 +10,13 @@ We try to eat our own dogfood and explain how to do a multilingual campaign. Thi
 
 * [English](https://floc.tech)
 * [Norwegian](https://floc.no)
+
+# Build output
+
+English source lives in `src/index.mdh`; build tooling lives in `scripts/`.
+Run `make` to derive the Norwegian MDH from its PO catalogue, then execute
+Strapdown during the Node build. The
+resulting static HTML variants are `html/index.html.en` and
+`html/index.html.no`; these names are for the future Apache language map.
+`html/` contains only published output. `src/` and `translate/` contain source
+material, while the intermediate `build/` directory is not published.

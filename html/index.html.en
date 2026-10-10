@@ -1,0 +1,19 @@
+<!doctype html>
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"><title>Free Libre Open Collaboration</title><link rel="stylesheet" href="assets/strapdown.css"><link rel="stylesheet" href="assets/bootstrap-responsive.min.css"><link rel="stylesheet" href="assets/spacelab.min.css"><link href="assets/spacelab.min.css" rel="stylesheet"><link href="assets/strapdown.css" rel="stylesheet"><link href="assets/bootstrap-responsive.min.css" rel="stylesheet"></head><body style=""><div class="navbar navbar-fixed-top"><div class="navbar-inner"> <div class="container"> <div id="headline" class="brand">Free Libre Open Collaboration</div> </div> </div></div><div class="container" id="content"><h1>What is this?</h1>
+<p>Free Libre Open Collaboration is a wordplay on Free Libre Open Source Software (FLOSS) it is a set of principles to obey by in order to better collaborate on projects across countries. These principles were developed to do campaigning, but they are generally useful for any project where you would like to develop once and make available in many locations, another word is Free Libre Open Campaigning.</p>
+<h2>What we try to solve</h2>
+<p>We are working on projects in a multinational setting. Often English is enough, but the majority of the population of the world doesn't speak English, and even when they all speak the same language there is a need adaptation to the local environent. Especially when a project is highly stylized and made in inaccessiable formats this is not necessarily easy, and almost the whole campaign has to be remade in each and every country.</p>
+<h3>Why would you spend extra time on doing it like this?</h3>
+<p>Do yourselves what you like others to do to you. While this probably will cost you a lot more time the first time you do it, and a little more time the next times. The benefit comes from the fact that if others do this for just one project, you've probably saved everything and then some.</p>
+<h1>The principles</h1>
+<h2>Separate styling from information</h2>
+<p>This is one of the guiding principles in HTML, where CSS was separated. This allows a project to be reused for instance in another language.</p>
+<h2>Use a version control system</h2>
+<p>There are several <a href="https://en.wikipedia.org/wiki/Version_control">version control systems</a> available. Some of the best known are <a href="https://git-scm.com/">GIT</a> and <a href="https://www.mercurial-scm.org/">Mercurial</a>, <a href="https://en.wikipedia.org/wiki/List_of_version_control_software">for a list see here</a>, but this is not necessary. Cloud storage most often also incorporates some kind of version control, while we prefer a proper source control management system, anything that let's you do changes and enables you to backtrack is usable.</p>
+<h2>Allow for translation</h2>
+<p>What this means is use easy to access formats like plain text, html, formatted text or other forms of text which easily can be used as input to a translation system (for example using <a href="https://po4a.org/">po4a</a>).</p>
+<h2>Use good tools</h2>
+<p>Good tools minimizes the workload, and the education cost on the involved project members. We are in the process of developing a list of good tools you can use to streamline this process.</p>
+<h2>License your project</h2>
+<p>Unfortunately in this world the default is that everything is copyrighted. If you want others to be able to use your work, indicate this by clearly setting a license. We recommend one of the permissive licenses from <a href="https://creativecommons.org/">Creative Commons</a> which is available with translations in almost every language. But also if you don't want to be that permissive indicate that as well. A license stating simply contact us if you want to run this yourself is a good starting point.</p>
+</div></body></html>
