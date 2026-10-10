@@ -13,10 +13,10 @@ We try to eat our own dogfood and explain how to do a multilingual campaign. Thi
 
 # Build output
 
-English source lives in `src/index.mdh`; build tooling lives in `scripts/`.
-Run `make` to derive the Norwegian MDH from its PO catalogue, then execute
-Strapdown during the Node build. The
-resulting static HTML variants are `html/index.html.en` and
-`html/index.html.no`; these names are for the future Apache language map.
-`html/` contains only published output. `src/` and `translate/` contain source
-material, while the intermediate `build/` directory is not published.
+English source lives in `src/index.mdh`; its small title metadata header is
+shared between languages. Build tooling lives in `scripts/`. Run
+`make` to extract only the Markdown body for PO4A, derive the Norwegian text
+from its PO catalogue, then render both languages with the Node-based build. It produces static
+`html/index.html.en` and `html/index.html.no` files for the future Apache
+language map. `html/` is ignored build output; `src/` and `translate/` contain
+the canonical source material, while `build/` is an intermediate directory.

@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2018-09-23 14:42+0000\n"
+"POT-Creation-Date: 2026-10-10 11:25+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,13 +17,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: Plain text
-#: site/en/index.mdh:5
-msgid ""
-"title: Free Libre Open Collaboration theme: spacelab ...  # What is this?"
+#: src/index.mdh:2
+msgid "# What is this?"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:7
+#: src/index.mdh:4
 msgid ""
 "Free Libre Open Collaboration is a wordplay on Free Libre Open Source "
 "Software (FLOSS) it is a set of principles to obey by in order to better "
@@ -34,12 +33,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:9
+#: src/index.mdh:6
 msgid "## What we try to solve"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:11
+#: src/index.mdh:8
 msgid ""
 "We are working on projects in a multinational setting. Often English is "
 "enough, but the majority of the population of the world doesn't speak "
@@ -50,12 +49,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:13
+#: src/index.mdh:10
 msgid "### Why would you spend extra time on doing it like this?"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:15
+#: src/index.mdh:12
 msgid ""
 "Do yourselves what you like others to do to you. While this probably will "
 "cost you a lot more time the first time you do it, and a little more time "
@@ -64,46 +63,47 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:17
+#: src/index.mdh:14
 msgid "# The principles"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:19
+#: src/index.mdh:16
 msgid "## Separate styling from information"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:21
+#: src/index.mdh:18
 msgid ""
 "This is one of the guiding principles in HTML, where CSS was separated. This "
 "allows a project to be reused for instance in another language."
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:23
+#: src/index.mdh:20
 msgid "## Use a version control system"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:25
+#: src/index.mdh:22
 msgid ""
 "There are several [version control systems](https://en.wikipedia.org/wiki/"
-"Version_control) available. Some of the best known are [GIT](https://git-scm."
-"com/) and [Mercurial](https://www.mercurial-scm.org/), [for a list see here]"
-"(https://en.wikipedia.org/wiki/List_of_version_control_software), but this "
-"is not necessary. Cloud storage most often also incorporates some kind of "
-"version control, while we prefer a proper source control management system, "
-"anything that let's you do changes and enables you to backtrack is usable."
+"Version_control) available. Some of the best known are [GIT](https://git-"
+"scm.com/) and [Mercurial](https://www.mercurial-scm.org/), [for a list see "
+"here](https://en.wikipedia.org/wiki/List_of_version_control_software), but "
+"this is not necessary. Cloud storage most often also incorporates some kind "
+"of version control, while we prefer a proper source control management "
+"system, anything that let's you do changes and enables you to backtrack is "
+"usable."
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:27
+#: src/index.mdh:24
 msgid "## Allow for translation"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:29
+#: src/index.mdh:26
 msgid ""
 "What this means is use easy to access formats like plain text, html, "
 "formatted text or other forms of text which easily can be used as input to a "
@@ -111,12 +111,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:31
+#: src/index.mdh:28
 msgid "## Use good tools"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:33
+#: src/index.mdh:30
 msgid ""
 "Good tools minimizes the workload, and the education cost on the involved "
 "project members. We are in the process of developing a list of good tools "
@@ -124,12 +124,12 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:35
+#: src/index.mdh:32
 msgid "## License your project"
 msgstr ""
 
 #. type: Plain text
-#: site/en/index.mdh:36
+#: src/index.mdh:33
 msgid ""
 "Unfortunately in this world the default is that everything is copyrighted. "
 "If you want others to be able to use your work, indicate this by clearly "

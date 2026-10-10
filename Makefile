@@ -4,7 +4,8 @@ all: html
 
 translations:
 	mkdir -p build
-	po4a --no-update -k 99 --keep-translations -M utf-8 po4a.cfg
+	node scripts/extract-body.mjs
+	po4a -k 99 -M utf-8 po4a.cfg
 
 html: translations scripts/build.mjs package.json package-lock.json
 	node scripts/build.mjs
